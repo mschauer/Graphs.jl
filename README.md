@@ -67,7 +67,7 @@ Additional functionality like advanced IO and file formats, weighted graphs, pro
 
 ## Project status
 
-The _Graphs.jl_ project is a reboot of the _LightGraphs.jl_ package (archived in October 2021), which remains available on GitHub at [sbromberger/LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl). If you don't need any new features developed since the fork, you can continue to use older versions of _LightGraphs.jl_ indefinitely. New versions will be released here using the name _Graphs.jl_ instead of _LightGraphs.jl_. There was an older package also called _Graphs.jl_. The source history and versions are still available in this repository, but the current code base is unrelated to the old _Graphs.jl_ code and is derived purely from _LightGraphs.jl_. To access the history of the old _Graphs.jl_ code, you can start from [commit 9a25019](https://github.com/JuliaGraphs/Graphs.jl/commit/9a2501948053f60c630caf9d4fb257e689629041).
+The _Graphs.jl_ project is a reboot of the _LightGraphs.jl_ package that was archived in October 2021, with past versions remaining available on GitHub at [sbromberger/LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl). New versions will be released here using the name _Graphs.jl_ instead of _LightGraphs.jl_. There was an older package also called _Graphs.jl_. The source history and versions are still available in this repository, but the current code base is unrelated to the old _Graphs.jl_ code and is derived purely from _LightGraphs.jl_. To access the history of the old _Graphs.jl_ code, you can start from [commit 9a25019](https://github.com/JuliaGraphs/Graphs.jl/commit/9a2501948053f60c630caf9d4fb257e689629041).
 
 ### Transition from LightGraphs to Graphs
 
